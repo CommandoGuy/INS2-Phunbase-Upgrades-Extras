@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+
+	"$basetexture"	"models/weapons/gmod4phun_ins2/upgrades/pkas2/pkas_reticle"
+	"$basetexturetransform ""center .498 .498 scale .65 .65 rotate 0 translate 0 0"
+	"$translucent" 	"1"
+}
